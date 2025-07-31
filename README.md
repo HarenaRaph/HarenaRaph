@@ -1,5 +1,5 @@
 # RANDRIAMBELO Harena Raphaël 
-### 💻 3rd-Year Computer Science Student | Full-Stack Developer
+### 💻 Computer Science Student | Full-Stack Developer
 [![Email](https://img.shields.io/badge/-harenaraph@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harenaraph@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@HarenaRaph-181717?style=flat&logo=github)](https://github.com/HarenaRaph)
 [![Location](https://img.shields.io/badge/Antananarivo,%20Madagascar-0077B5?style=flat&logo=google-maps&logoColor=white)]()
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Career Objective
-Passionate computer science student specializing in **AI and multimedia technologies**, seeking opportunities to build innovative solutions with modern web and mobile stacks.
+Passionate computer science student, seeking opportunities to build innovative solutions with modern web and mobile stacks.
 
 ---
 
@@ -59,13 +59,6 @@ Passionate computer science student specializing in **AI and multimedia technolo
 *Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present   
 - **Key Courses**: Advanced Algorithms, Web Dev, Databases, Machine Learning  
 
----
-
-## 🌟 Interests
-- 🎮 Game Design & Mechanics Analysis  
-- 🏀 Basketball & Martial Arts (Teamwork/Discipline)  
-- 📸 Photography & Music & Audiovisual 
-- 🤖 Emerging Tech & Innovation  
 
 ---
 
