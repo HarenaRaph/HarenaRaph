@@ -1,4 +1,17 @@
-## 🛠️ Tech Stack
+# RANDRIAMBELO Harena Raphaël 
+### 💻 3rd-Year Computer Science Student | Full-Stack Developer
+[![Email](https://img.shields.io/badge/-harenaraph@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harenaraph@gmail.com)
+[![GitHub](https://img.shields.io/badge/-@HarenaRaph-181717?style=flat&logo=github)](https://github.com/HarenaRaph)
+[![Location](https://img.shields.io/badge/Antananarivo,%20Madagascar-0077B5?style=flat&logo=google-maps&logoColor=white)]()
+
+---
+
+## 🚀 Career Objective
+Passionate computer science student specializing in **AI and multimedia technologies**, seeking opportunities to build innovative solutions with modern web and mobile stacks.
+
+---
+
+## 🛠️ Technical Stack
 
 <p align="left">
   <!-- Langages -->
@@ -7,20 +20,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/>
   
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.simpleicons.org/react" width="50" alt="React" title="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="50" alt="Next.js" title="Next.js"/>
   
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js" title="Express.js"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="50" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express" width="50" alt="Express.js" title="Express.js"/>
   
   <!-- Bases de données -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mongodb" width="50" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="50" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="50" alt="PostgreSQL" title="PostgreSQL"/>
   
   <!-- ORM & CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" alt="Prisma" title="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/prisma" width="50" alt="Prisma" title="Prisma"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/bootstrap" width="50" alt="Bootstrap" title="Bootstrap"/>
+</p>
+
+---
+
+## 🏆 Notable Projects
+
+### **🏥 Hospital Management System**
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/HarenaRaph/Hospital-Management)
+- Full-stack web app with **epidemic simulation algorithm**
+- Tech: React, Next.js, TypeScript
+
+### **🔑 Password Manager (Cross-Platform)**
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/HarenaRaph/PasswordManager)
+- Secure credential storage with intuitive UI
+- Tech: .NET MAUI, C#
+
+---
+
+## 📚 Education
+**Bachelor's in Computer Science**  
+*Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present  
+- **Specialization**: AI & Multimedia (IMTICIA program)  
+- **Key Courses**: Advanced Algorithms, Web Dev, Databases, Machine Learning  
+
+---
+
+## 🌟 Interests
+- 🎮 Game Design & Mechanics Analysis  
+- 🏀 Basketball & Martial Arts (Teamwork/Discipline)  
+- 📸 Photography & Music Production  
+- 🤖 Emerging Tech & Innovation  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarenaRaph&label=Profile%20Views&color=blueviolet" alt="HarenaRaph" />
 </p>
