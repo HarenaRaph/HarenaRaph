@@ -40,20 +40,6 @@ Passionate computer science student, seeking opportunities to build innovative s
 
 ---
 
-## 🏆 Notable Projects
-
-### **🏥 Hospital Management System**
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/HarenaRaph/Hospital-Management)
-- Full-stack web app with **epidemic simulation algorithm**
-- Tech: React, Next.js, TypeScript
-
-### **🔑 Password Manager (Cross-Platform)**
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/HarenaRaph/PasswordManager)
-- Secure credential storage with intuitive UI
-- Tech: .NET MAUI, C#
-
----
-
 ## 📚 Education
 **Bachelor's in Computer Science**  
 *Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present   
