@@ -56,8 +56,7 @@ Passionate computer science student specializing in **AI and multimedia technolo
 
 ## 📚 Education
 **Bachelor's in Computer Science**  
-*Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present  
-- **Specialization**: AI & Multimedia (IMTICIA program)  
+*Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present   
 - **Key Courses**: Advanced Algorithms, Web Dev, Databases, Machine Learning  
 
 ---
@@ -65,7 +64,7 @@ Passionate computer science student specializing in **AI and multimedia technolo
 ## 🌟 Interests
 - 🎮 Game Design & Mechanics Analysis  
 - 🏀 Basketball & Martial Arts (Teamwork/Discipline)  
-- 📸 Photography & Music Production  
+- 📸 Photography & Music & Audiovisual 
 - 🤖 Emerging Tech & Innovation  
 
 ---
