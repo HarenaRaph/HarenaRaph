@@ -43,7 +43,7 @@ Passionate computer science student, seeking opportunities to build innovative s
 ## 📚 Education
 **Bachelor's in Computer Science**  
 *Institut Supérieur Polytechnique de Madagascar (ISPM)* | 2022–Present   
-- **Key Courses**: Advanced Algorithms, Web Dev, Databases, Machine Learning  
+- **Key Courses**: Advanced Algorithms, Web Dev, Databases, Artificial Intelligence 
 
 
 ---
