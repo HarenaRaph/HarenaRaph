@@ -19,11 +19,15 @@ Passionate computer science student, seeking opportunities to build innovative s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/>
   
+  <!-- Backend & DB (Nouveaux logos) -->
+  <img src="https://cdn.simpleicons.org" width="50" alt=".NET" title=".NET Core / ASP.NET"/>
+  <img src="https://cdn.simpleicons.org" width="50" alt="Oracle" title="Oracle Database"/>
+
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/react" width="50" alt="React" title="React"/>
   <img src="https://cdn.simpleicons.org/nextdotjs" width="50" alt="Next.js" title="Next.js"/>
   
-  <!-- Backend -->
+  <!-- Autres Backend -->
   <img src="https://cdn.simpleicons.org/nodedotjs" width="50" alt="Node.js" title="Node.js"/>
   <img src="https://cdn.simpleicons.org/express" width="50" alt="Express.js" title="Express.js"/>
   
@@ -37,6 +41,7 @@ Passionate computer science student, seeking opportunities to build innovative s
   <img src="https://cdn.simpleicons.org/tailwindcss" width="50" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://cdn.simpleicons.org/bootstrap" width="50" alt="Bootstrap" title="Bootstrap"/>
 </p>
+
 
 ---
 
