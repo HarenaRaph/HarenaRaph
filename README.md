@@ -1,13 +1,9 @@
 # RANDRIAMBELO Harena Raphaël 
-###  Computer Science Student
+
 [![Email](https://img.shields.io/badge/-harenaraph@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harenaraph@gmail.com)
 [![GitHub](https://img.shields.io/badge/-@HarenaRaph-181717?style=flat&logo=github)](https://github.com/HarenaRaph)
 [![Location](https://img.shields.io/badge/Antananarivo,%20Madagascar-0077B5?style=flat&logo=google-maps&logoColor=white)]()
 
----
-
-##  Career Objective
-Passionate computer science student, seeking opportunities to build innovative solutions with modern web and mobile stacks.
 
 ---
 
@@ -41,14 +37,6 @@ Passionate computer science student, seeking opportunities to build innovative s
 </p>
 
 
----
-
-##  Education
-**Bachelor's in Computer Science**  2022–Present   
-- **Key Courses**: Advanced Algorithms, Web Dev, Databases, Artificial Intelligence 
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarenaRaph&label=Profile%20Views&color=blueviolet" alt="HarenaRaph" />
