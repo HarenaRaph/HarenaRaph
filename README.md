@@ -36,8 +36,3 @@
   <img src="https://cdn.simpleicons.org/bootstrap" width="50" alt="Bootstrap" title="Bootstrap"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarenaRaph&label=Profile%20Views&color=blueviolet" alt="HarenaRaph" />
-</p>
